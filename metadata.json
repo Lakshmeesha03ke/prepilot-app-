@@ -1,0 +1,6 @@
+{
+  "name": "PrePilot - Placement Preparation & Readiness",
+  "description": "Intelligent, personalized placement preparation app that measures student readiness across 6 core areas, calculates skill gaps, and continuously recommends adaptive tasks with AI learning tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
